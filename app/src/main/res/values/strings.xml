@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Digital Coast</string>
+    <array name="type_of_building">
+        <item>Cyclone Shelter</item>
+        <item>School</item>
+        <item>Hospital</item>
+        <item>Police Station</item>
+    </array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
